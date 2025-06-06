@@ -1,0 +1,80 @@
+body {
+    background-color:rgb(172, 202, 238);
+    font-family: 'Actor';
+}
+
+.nav {
+    list-style: none;
+    text-align:center
+}
+.nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border:1px solid rgb(255, 255, 255);
+    padding: 50px; 
+    background-color:  rgba(24, 77, 182, 0.76);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    color: white;
+    padding: 15px;
+    box-sizing: border-box;  
+    border-radius: 0%;    
+}
+
+.image-caption {
+    text-align: center;
+    border: 10 px white;
+    
+}
+
+.body {
+    margin: 40% auto;
+  }
+
+  .nav-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #323334; /* Blue background */
+    color: white;              /* White text */
+    text-decoration: none;     /* Remove underline */
+    border-radius: 5px;        /* Rounded corners */
+    margin: 5px;               /* Space between buttons */
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-button:hover {
+    background-color: #bfdbe7; /* Darker blue on hover */
+  }
+  .container2 {
+    width: 1000px;
+    margin: 0 auto;
+    border:1px solid rgb(255, 255, 255);
+    padding: 20px; 
+    background-color:  rgba(24, 77, 182, 0.76);
+    border-radius: 10%;
+}
+
+.main-content {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.mybutton {
+  background-color:#323334;
+  color: white;
+  border-radius: 5%;
+  font-weight: bold;
+}
+
+
+
+
+

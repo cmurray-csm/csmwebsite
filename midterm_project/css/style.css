@@ -1,0 +1,72 @@
+body {
+    background-color:rgb(246, 240, 231);
+    font-family: 'Antic';
+}
+
+.nav {
+    list-style: none;
+    text-align:center
+}
+.nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border:1px solid rgb(255, 255, 255);
+    padding: 50px; 
+    background-color: rgb(67, 77, 142);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    color: white;
+    padding: 15px;
+    box-sizing: border-box;  
+    border-radius: 0%;    
+}
+
+.image-caption {
+    text-align: center;
+    border: 10 px white;
+    
+}
+
+#new_zealand {
+    font-size: 50px;
+    color:silver;
+    font-family: 'Almendra Display';
+}
+
+body {
+    margin: 20px;
+  }
+
+  .nav-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #323334; /* Blue background */
+    color: white;              /* White text */
+    text-decoration: none;     /* Remove underline */
+    border-radius: 5px;        /* Rounded corners */
+    margin: 5px;               /* Space between buttons */
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  .container2 {
+    width: 1000px;
+    margin: 0 auto;
+    border:1px solid rgb(255, 255, 255);
+    padding: 50px; 
+    background-color: rgb(67, 77, 142);
+    border-radius: 10%;
+}
+
+
+
